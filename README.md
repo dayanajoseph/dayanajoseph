@@ -55,13 +55,6 @@ As a proud pet lover (and yes, that's my adorable pack, Charlie, Bella, and Cass
 
 ---
 
-#### 🤔 **I’m looking for help with:**
-- Best practices for security in cloud environments.
-- Complex distributed system troubleshooting scenarios.
-- Advanced **Front-End design patterns and performance optimization**.
-
----
-
 ### 💻 Technologies & Tools
 
 #### Operating Systems & Scripting
